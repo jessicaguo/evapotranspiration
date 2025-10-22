@@ -251,10 +251,10 @@ ggplot() +
 
 In this study, all trees could access groundwater such that their transpiration rate $J_s$ is largely controlled by atmospheric demand $D$ and species differences. The $D$ also differs as the sites are arrayed along an elevation gradient from Jordan (1314 m) to Upper (1900 m).
 
-```         
+
 (i) Generally, $D$ decreases with elevation due to the adiabatic rate of cooling. What might the elevation pattern of $D$ look like under climate change? Explain your reasoning.
 
 (ii) Excluding *E. angustifolia*, is there an elevational pattern in `Gs` across species? Why might this be so? Refer to your rearranged Monteith equation. What might happen to `Gs` across elevations under climate change?
 
 (iii) Both *T. ramosissima* and *E. angustifolia* are non-native species (more commonly known as tamarix and Russian olive). What is their `Gs` relative to the other native riparian trees? How might water use by non-native species play out ecologically under climate change, given the tradeoff between water use and CO~2~ uptake?
-```
+
